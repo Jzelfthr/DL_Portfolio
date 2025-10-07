@@ -6,25 +6,25 @@ parts:
     chapters:
       - file: exercises/exercise-1-python-basics
         title: Python Basics
-      # Add more exercises here
-      # - file: exercises/exercise-2-data-visualization
-      #   title: Data Visualization
 
-  - caption: 🔬 Labs
+  - caption: 🔬 Laboratories
     chapters:
+      - file: labs/lab-1-intro
+        title: Introduction to Deep Learning
+      - file: labs/lab-2-forward-backprop
+        title: Forward & Backward Propagation
+      - file: labs/lab-3-training
+        title: Neural Network Training
+      - file: labs/lab-4-regression
+        title: Linear Regression in PyTorch
       - file: labs/lab-5-pytorch-intro
         title: Introduction to PyTorch
-      # Example nested sections (optional)
-      # sections:
-      #   - file: labs/lab-5a-tensors
-      #     title: Working with Tensors
-      #   - file: labs/lab-5b-neural-networks
-      #     title: Neural Networks Basics
+      - file: labs/lab-6-cnn
+        title: CNN for Image Classification
 
   - caption: 👥 Group Projects
     chapters:
       - file: group-activities/resources
         title: Project Resources
-      # Add more project links here
-      # - file: group-activities/project-1
-      #   title: Project 1: Case Study
+      - file: group-activities/project-1
+        title: Group Project
