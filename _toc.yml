@@ -12,14 +12,13 @@ parts:
 
   - caption: 🔬 Labs
     chapters:
-      - file: labs/lab-5-pytorch-intro
-        title: Introduction to PyTorch
-      # Example nested sections (optional)
-      # sections:
-      #   - file: labs/lab-5a-tensors
-      #     title: Working with Tensors
-      #   - file: labs/lab-5b-neural-networks
-      #     title: Neural Networks Basics
+      - file: labs/Laboratory_task_1
+      - file: labs/Laboratory_task_2
+      - file: labs/Laboratory_Task_3
+      - file: labs/Laboratory_task_4
+      - file: labs/gier_task5
+      - file: labs/Laboratory_task_6
+
 
   - caption: 👥 Group Projects
     chapters:
@@ -28,3 +27,4 @@ parts:
       # Add more project links here
       # - file: group-activities/project-1
       #   title: Project 1: Case Study
+
